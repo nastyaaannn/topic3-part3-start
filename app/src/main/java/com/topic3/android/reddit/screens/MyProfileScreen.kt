@@ -282,6 +282,10 @@ fun MyProfileAbout() {
     }
 }
 
+private fun Any.ProfileInfo() {
+    TODO("Not yet implemented")
+}
+
 @Composable
 fun ColumnScope.BackgroundText(text: String) {
     Text(
